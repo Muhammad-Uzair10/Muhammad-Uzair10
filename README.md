@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad-Uzair10
+- 👋 Hi, I’m @Muhammad-Uzair
 - 👀 I’m interested in decoding the secrets of artificial intelligence
 - 🌱 I’m currently learning how to train machines to understand human quirks and hopefully teach them to appreciate a good joke.
 - 💞️ I’m looking to collaborate on collaborate on AI projects that could use a touch of creativity and a lot of data!
