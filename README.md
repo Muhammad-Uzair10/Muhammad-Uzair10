@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on collaborate on AI projects that could use a touch of creativity and a lot of data!
 - 📫 How to reach me uzairm288@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m on a mission to teach my AI how to understand human emotions—so far, it’s great at recognizing cat photos but still working on deciphering my Monday morning mood!
+
 
 
 <!---
